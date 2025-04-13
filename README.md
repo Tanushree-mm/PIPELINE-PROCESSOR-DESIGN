@@ -121,10 +121,14 @@ Synthesize the design for further hardware realization.
 
 *CODE*:
 
+![Image](https://github.com/user-attachments/assets/75deab92-ba82-4740-b858-be0d4b84aac5)
 
+![Image](https://github.com/user-attachments/assets/1fef72bd-b9db-4744-8d5c-5257026fa9e7)
 
 
 *OUTPUT*: 
+
+
 
 
 
