@@ -76,7 +76,7 @@ Waveform Analysis: Cadence ADE tools were used to verify correct instruction seq
 
 Synthesis: The processor design was synthesized to validate timing, area, and logical correctness of the pipeline.
 
-🔍 Verification and Testing
+ Verification and Testing
 The processor was rigorously tested using a custom testbench that:
 
 Injects multiple instructions to demonstrate pipelined execution
