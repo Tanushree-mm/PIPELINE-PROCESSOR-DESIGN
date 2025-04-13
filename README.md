@@ -128,6 +128,10 @@ Synthesize the design for further hardware realization.
 
 *OUTPUT*: 
 
+![Image](https://github.com/user-attachments/assets/208e6f14-f5e1-441e-9f5f-d30ec4f7a98b)
+
+![Image](https://github.com/user-attachments/assets/9b8a6782-92fc-44ed-93f9-5360ecf615d8)
+
 
 
 
